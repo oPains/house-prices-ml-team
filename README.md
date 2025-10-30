@@ -20,8 +20,8 @@ This is our team's central to-do list. When you start a task, tell the team!
 
 * [✅] **Task 1:** Load `train.csv` and `test.csv` into pandas DataFrames.
 * [✅] **Task 2:** Print the first 5 rows of the training data (`train_data.head()`).
-* [ ] **Task 3:** Get a summary of all columns, their types, and non-null counts (`train_data.info()`).
-* [ ] **Task 4:** Get descriptive stats (mean, min, max) for all numeric columns (`train_data.describe()`).
+* [✅] **Task 3:** Get a summary of all columns, their types, and non-null counts (`train_data.info()`).
+* [✅] **Task 4:** Get descriptive stats (mean, min, max) for all numeric columns (`train_data.describe()`).
 * [ ] **Task 5 (The Big One):** Make a histogram of our target variable, `SalePrice`. (This is the most important column in the project).
 * [ ] **Task 6:** Find the 10 columns with the *most* missing values (`.isnull().sum()`).
 
